@@ -1,0 +1,23 @@
+#heading{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(10, 222, 219), 0 0 5px rgb(0, 113, 139)
+}
+
+#cv-template{
+    display: none;
+}
+
+.background{
+    background-color: aqua;
+}
+
+
+ .container {
+    position: relative;
+  }
+
+  body{
+      background-color: gray;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      color: black;
+  }
